@@ -1,0 +1,14 @@
+{
+  "name": "vacation23128",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "sagame6699 Pantip เว็บไซต์ที่เชื่อถือได้ [Play168] ⭐ sagame6699 เว็บเกมคาสิโนออนไลน์ บริการทันสมัย ถ่ายทอดสดให้เล่นผ่านมือถือ ทำเงินได้ทุกที่ทุกเวลา",
+  "keywords": [
+    "sagame6699 Pantip เว็บไซต์ที่เชื่อถือได้ [Play168] ⭐ sagame6699 เว็บเกมคาสิโนออนไลน์ บริการทันสมัย ถ่ายทอดสดให้เล่นผ่านมือถือ ทำเงินได้ทุกที่ทุกเวลา"
+  ],
+  "repository": "https://github.com/yorkinyellow/vacation23128",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
